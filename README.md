@@ -1,2 +1,2 @@
-# Repositório-cursoGithub
- Primeiro repositório
+# Repositório Curso Github
+  Meu primeiro repositório
